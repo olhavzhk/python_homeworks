@@ -1,0 +1,16 @@
+[
+    {
+        "first_name": "Michael",
+        "last_name": "Scott",
+        "full_name": "Michael Scott",
+        "phone_number": "1234567890",
+        "city_state": "Scranton"
+    },
+    {
+        "first_name": "Dwight",
+        "last_name": "Schrute",
+        "full_name": "Dwight Schrute",
+        "phone_number": "7175550177",
+        "city_state": "Scranton"
+    }
+]

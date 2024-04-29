@@ -1,0 +1,23 @@
+[
+    {
+        "first_name": "petro",
+        "last_name": "hor",
+        "full_name": "petro hor",
+        "phone_number": "1234",
+        "city_state": "qwer"
+    },
+    {
+        "first_name": "olha",
+        "last_name": "vazhka",
+        "full_name": "olha vazhka",
+        "phone_number": "1235",
+        "city_state": "qwertt"
+    },
+    {
+        "first_name": "olha",
+        "last_name": "vazhka",
+        "full_name": "olha vazhka",
+        "phone_number": "1234567",
+        "city_state": "poltava"
+    }
+]
